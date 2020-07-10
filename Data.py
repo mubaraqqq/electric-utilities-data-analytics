@@ -71,4 +71,5 @@ A = np.arange(9).reshape(3, 3)
 B = np.ones((3, 3))
 print (A * B)
 
+
 #The Matrix Product
